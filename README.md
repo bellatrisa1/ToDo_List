@@ -45,8 +45,7 @@ src/
 ## ⚙️ Установка и запуск: 
 
 
-<pre lang="md">  
-  ```bash
+<pre lang="md"> 
   
 # 1. Клонируйте репозиторий
 git https://github.com/bellatrisa1/ToDo_List.git
@@ -58,5 +57,4 @@ cd todo_vue_app
 npm install
 
 # 4. Запустите приложение
-npm run dev
-  ``` </pre>
+npm run dev </pre>
