@@ -25,13 +25,14 @@
 - Базовая модульность компонентов
 
 ## 📁 Структура проекта:
-
+<pre lang="md"> 
 src/
 ├── App.vue                # Главный компонент приложения
 ├── main.js                # Точка входа
 ├── firebase.js            # Конфигурация Firebase
 ├── components/
 │   └── LoginRegister.vue  # Компонент аутентификации
+</pre>
 
 ## 📌 Что реализовано:
 - ☑️ CRUD операций с задачами
@@ -46,7 +47,6 @@ src/
 
 
 <pre lang="md"> 
-  
 # 1. Клонируйте репозиторий
 git https://github.com/bellatrisa1/ToDo_List.git
 
@@ -58,3 +58,6 @@ npm install
 
 # 4. Запустите приложение
 npm run dev </pre>
+
+## 🧑‍💻 Автор:
+t.me/bellatrix_bb
